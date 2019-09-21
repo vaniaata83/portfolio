@@ -33,12 +33,17 @@
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+            <state relative-caret-position="56">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+=======
+<<<<<<< HEAD
             <state relative-caret-position="46">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
 =======
             <state relative-caret-position="28">
               <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
 >>>>>>> 23a0b0d8989dfd1f3f1aaf94dec7d0ac0696380c
+>>>>>>> 9962493243736aaae22eb70cc0c3965364c1203c
             </state>
           </provider>
         </entry>
@@ -308,11 +313,14 @@
       <workItem from="1568546106874" duration="15000" />
       <workItem from="1568547970254" duration="2110000" />
       <workItem from="1568553142912" duration="2530000" />
-      <workItem from="1569057339039" duration="814000" />
+      <workItem from="1569057339039" duration="1412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="58642000" />
+=======
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="57742000" />
   </component>
@@ -323,6 +331,7 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49776787" visible="true" weight="0.29143897" />
 =======
     <option name="totallyTimeSpent" value="58044000" />
+>>>>>>> 9962493243736aaae22eb70cc0c3965364c1203c
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1123" height="702" extended-state="0" />
@@ -428,12 +437,17 @@
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+        <state relative-caret-position="56">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+=======
+<<<<<<< HEAD
         <state relative-caret-position="46">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
 =======
         <state relative-caret-position="28">
           <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
 >>>>>>> 23a0b0d8989dfd1f3f1aaf94dec7d0ac0696380c
+>>>>>>> 9962493243736aaae22eb70cc0c3965364c1203c
         </state>
       </provider>
     </entry>
